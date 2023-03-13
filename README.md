@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kunal Sharma</h1>
 <h3 align="center">Glad to see you here!</h3>
 
-- 🌱 I’m currently learning **OpenCV**
+- 🌱 I’m currently learning **Flutter**
 
 - 💬 Ask me about **HTML,CSS,C,C++,Python**
 
